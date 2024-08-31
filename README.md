@@ -1,4 +1,4 @@
-<h1 align="center">CropDiseasePrediction App</h1>
+<h1 align="center">Khet-Dost CropDiseasePrediction App</h1>
 
 AI-Driven Crop Disease Prediction and Management System
 <p align="center">
